@@ -9,7 +9,7 @@ ReactDOM.render(
   <React.StrictMode>
     <CounterContextProvider>
       <Home />
-    </CounterContextProvider>    
+    </CounterContextProvider>
   </React.StrictMode>,
   document.getElementById('root'),
 );

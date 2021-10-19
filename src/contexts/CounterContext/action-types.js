@@ -1,3 +1,4 @@
+
 const prefix = `CounterContext`;
 
 export const INCREASE = `${prefix}/INCREASE`;
